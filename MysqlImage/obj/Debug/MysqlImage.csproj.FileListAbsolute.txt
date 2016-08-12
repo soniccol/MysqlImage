@@ -1,0 +1,14 @@
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\bin\Debug\MysqlImage.exe
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\bin\Debug\MysqlImage.pdb
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\bin\Debug\mysql.data.dll
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage.csprojResolveAssemblyReference.cache
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MainWindow.g.cs
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\App.g.cs
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage_MarkupCompile.cache
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage_MarkupCompile.lref
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MainWindow.baml
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage.g.resources
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage.Properties.Resources.resources
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage.csproj.GenerateResource.Cache
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage.exe
+C:\Users\andy\Desktop\MysqlImage\MysqlImage\obj\Debug\MysqlImage.pdb
