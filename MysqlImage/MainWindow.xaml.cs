@@ -57,7 +57,7 @@ namespace MysqlImage
                 cmd = new MySql.Data.MySqlClient.MySqlCommand();
 
 
-                conn.ConnectionString = "server=125.227.178.230;uid=itri;" + "pwd=iscae100;database=SBGService;CharSet=utf8;";
+                conn.ConnectionString = "";
                 
 
                 string SQL;
